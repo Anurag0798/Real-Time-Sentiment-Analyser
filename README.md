@@ -45,6 +45,7 @@ pip install -r requirements.txt
 
 - Obtain your EURI API key from https://euron.one/
 - Open `app.py` and paste your key in place of `"Put_your_euri_API_key_here"`:
+
   ```python
   EURI_API_KEY = "YOUR_API_KEY"
   ```
